@@ -1,0 +1,79 @@
+tut1.cpp    --> Hello world
+
+tut3.cpp    --> Variables & Comments
+tut4.cpp    --> Variable scope & Data types
+tut5.cpp    --> Basic Input & Output
+tut6.cpp    --> Header files & operators
+tut7.cpp    --> Built in Data types, Literals, Reference variables and Typecasting.
+tut8.cpp    --> Constant, Manipulators & Operators precedence.
+tut9.cpp    --> Control Structures, If-else and Switch case statements.
+tut10.cpp   --> For, while and do-while loops in c++.
+tut11.cpp   --> Break & Continue statements.
+tut12.cpp   --> Pointers.
+tut13.cpp   --> Arrays and Pointer Arithmatic.
+tut14.cpp   --> Structures, Unions and enums.
+tut15.cpp   --> Function & Function Prototypes.
+tut16.cpp   --> Call by Value & Call by Reference.
+tut17.cpp   --> Inline Functions, Default Arguments & Constant Arguments.
+tut18.cpp   --> Recursion and Recursive Functions.
+tut19.cpp   --> Function Overloading.
+OOPS & POOP(POP).
+tut21.cpp   --> Classes, Public and Private access modifiers.
+tut22.cpp   --> OOPS recap and Nesting Member Functions.
+tut23.cpp   --> Objects Memory Allocation & using Arrays in Class.
+tut24.cpp   --> Static Data Members & Mehods in C++.
+tut25.cpp   --> Array of Objects & Passing objects as Function Arguments.
+tut26.cpp   --> Friend Functions.
+tut27.cpp   --> Friend Class and Member Friend function.
+tut28.cpp   --> More on Freind functions. (examples)
+tut29.cpp   --> Constructors in C++.
+tut30.cpp   --> Parameterized and Default Constructors. (2 examples)
+tut31.cpp   --> Constructor Overloading.
+tut32.cpp   --> Constructors with Default Arguments.
+tut33.cpp   --> Dynamic Initialization of Objects using Constructors.
+tut34.cpp   --> Copy Constructor.
+tut35.cpp   --> Destructors.
+Inheritance & its types. ( https://www.codewithharry.com/videos/cpp-tutorials-in-hindi-36 ).
+tut37.cpp   --> Inheritance Syntax & Visibility mode.
+tut38.cpp   --> Single Inheritance.
+tut39.cpp   --> Protected Access Modifier.
+tut40.cpp   --> Multilevel Inheritance.
+tut41.cpp   --> Multiple Inheritance.
+tut42.cpp   --> Exercise on C++ Inheritance.
+tut43.cpp   --> Ambiguity Resolution in Inheritance.
+tut44.cpp   --> Virtual Base Class.
+tut45.cpp   --> Example on Virtual Base Class.
+tut46.cpp   --> Constructor in Derived Class.
+tut47.cpp   --> Solution of exercise in tut42.cpp2
+tut48.cpp   --> Code exaple : Constructors in Derived Class.
+tut49.cpp   --> Initialization list in Constructors.
+tut50.cpp   --> Revisiting Pointers: new and delete Keywords in CPP
+tut51.cpp   --> Pointers to objects & Arrow operator.
+tut52.cpp   --> Array of objects using Pointers.
+tut53.cpp   --> this Pointer.
+tut54.cpp   --> Polymorphism.
+tut55.cpp   --> Pointer to Derived Class.
+tut56.cpp   --> Virtual Functions.
+tut57.cpp   --> Virtual Function example + Creation Rules.
+tut58.cpp   --> Abstract Base Class & Pure Virtual Functions.
+File I/O in Cpp.    ( https://www.codewithharry.com/videos/cpp-tutorials-in-hindi-59 )
+tut60.cpp   --> File I/O in c++ : Reading and Writing in File.
+tut61.cpp   --> Read / Write in the Same Program & Closing files.
+tut62.cpp   --> File I/O in c++ : open() and eof() functions.
+tut63.cpp   --> Templates.
+tut64.cpp   --> First C++ Template.
+tut65.cpp   --> C++ Templates : Templates with multiple parameters.
+tut66.cpp   --> C++ Templates : Class Templates with default Parameters. 
+tut67.cpp   --> C++ Function Template & Function template with Parameters.
+tut68.cpp   --> Member function Templates & Overloading template functions.
+C++ Standard Template Library (STL).    (Must watch : https://www.codewithharry.com/videos/cpp-tutorials-in-hindi-69)
+Containers in C++ STL.  (Must watch : https://www.codewithharry.com/videos/cpp-tutorials-in-hindi-70)
+tut71.cpp   --> Vector in C++ STL.
+tut72.cpp   --> List in C++ STL.
+tut73.cpp   --> Maps in C++ STL.
+tut74.cpp   --> Function Objects (Functors) in C++ STL.
+
+*****************************************************************************************************************
+*                                                   COMPLETED                                                   *
+*                                          MISSION PASSED -> RESPECT++                                          *
+*****************************************************************************************************************
